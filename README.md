@@ -78,5 +78,8 @@ I am continually refining my expertise to stay at the forefront of advancements 
 
 ---
 
+👀 If you want to see other skills and courses I have completed, [here](https://example.com/link/to/Adib%20Said%20Hosn%20curriculo%20ingles%20(1).pdf) is my resume.
+
+---
 ## ☎️ Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/adibhosn/) | [Email](mailto:adibsaidhosn@gmail.com)
