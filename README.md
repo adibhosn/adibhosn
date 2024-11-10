@@ -10,15 +10,13 @@ I am continually refining my expertise to stay at the forefront of advancements 
 
 ---
 ## 🌍I can comunicate in:
-- **Potuguese** (Native)
-![Brasil](https://img.shields.io/badge/-Brasil-009739?style=for-the-badge&logo=brazil&logoColor=white)
-- **English** (Professional)
-![Estados Unidos](https://img.shields.io/badge/-EUA-3C3B6E?style=for-the-badge&logo=united-states&logoColor=white)
-- **Spanish** (Intermediate)
-![Espanha](https://img.shields.io/badge/-Espanha-ffcc00?style=for-the-badge&logo=spain&logoColor=red)
-- **French** (Basic)
-![França](https://img.shields.io/badge/-França-0055A4?style=for-the-badge&logo=france&logoColor=white)
+- ⚽ **Potuguese** (Native)
 
+- 🗽**English** (Professional)
+
+- 💃🏽 **Spanish** (Intermediate)
+
+- 🗼 **French** (Basic)
 ---
 
 ## Technologies
