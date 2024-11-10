@@ -9,7 +9,7 @@ I am a machine learning and finance enthusiast, dedicated to transforming financ
 I am continually refining my expertise to stay at the forefront of advancements in quantitative finance. I am eager to contribute to innovative projects and collaborate with others who share a vision for reshaping finance through data-driven approaches.
 
 ---
-## 🌍I can comunicate in:
+## 🌍I have communication skills in:
 - ⚽ **Potuguese** (Native)
 
 - 🗽**English** (Professional)
