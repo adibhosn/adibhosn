@@ -1,5 +1,5 @@
 
-# Welcome to My Profile 👋
+# Hello, my name is Adib, and this is my profile – feel free to explore! 👋
 
 ![Cover](https://github.com/adibhosn/Adib-s_ReadMe/blob/main/adib_image.jpg?raw=true)
 
