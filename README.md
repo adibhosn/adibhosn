@@ -52,6 +52,7 @@ I am continually refining my expertise to stay at the forefront of advancements 
 | **Project & Communication Tools** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036)               ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)           |
 
 
+---
 
 ## ## Technologies I’m Currently Studying or Interested in Learning
 
