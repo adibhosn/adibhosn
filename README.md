@@ -48,12 +48,7 @@ I am continually refining my expertise to stay at the forefront of advancements 
 | **Category**                   | **Technologies**                                                                                                         |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Web Frameworks**             | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)                 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)                   |
-| **API Testing**                | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                  |
-
-### 🤝 Collaboration Tools
-| **Category**                   | **Technologies**                                                                                                         |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Project & Communication Tools** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036)               ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)           |
+| **Tools**                | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)                  |
 
 
 ---
