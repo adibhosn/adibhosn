@@ -1,28 +1,33 @@
 # Hello, my name is Adib, and this is my profile – feel free to explore! 👋
 
-![Cover](https://github.com/adibhosn/Adib-s_ReadMe/blob/main/adib_image.jpg?raw=true)
+<table align="right">
+  <tr><td><strong> I can comunicate in: <strong></td></tr>
+  <tr><td><a href="README_pt.md"><img src="imagens/br-flag.png" height="13"> Portuguese (Native)</a></td></tr>
+  <tr><td><a href="README.md"><img src="imagens/us-flag.png" height="13"> English (Professional)</a></td></tr>
+  <tr><td><a href="README_es.md"><img src="imagens/sp-flag.png" height="13"> Spanish (Intermediate)</a></td></tr>
+  <tr><td><a href="README_fr.md"><img src="imagens/fr-flag.png" height="13"> French (Basic)</a></td></tr>
+</table>
 
-## About Me
-I am a machine learning and finance enthusiast, dedicated to transforming financial data into actionable insights. My interest is at the intersection of data science and quantitative finance, where I focus on predictive modeling and the development of quantitative strategies. I am passionate about using robust data science techniques to solve complex financial challenges and deliver meaningful results in financial technology.
+<img src="https://github.com/adibhosn/Adib-s_ReadMe/blob/main/adib_image.jpg?raw=true" alt="Cover" width="750">
 
-I am continually refining my expertise to stay at the forefront of advancements in quantitative finance. I am eager to contribute to innovative projects and collaborate with others who share a vision for reshaping finance through data-driven approaches.
+---
+
+
+### 🙋🏻‍♂️  About Me
+
+**● Passionate about exploring technological strategies that connect economic theory with real-world financial applications.**
+ 
+**● Enthusiastically exploring the intersection of financial markets and advanced predictive modeling techniques.**
+ 
+**● Always staying updated on economic trends and financial market developments.**
 
 ---
 ## ☎️ Connect with Me
 
 
-[LinkedIn](https://www.linkedin.com/in/adibhosn/) | [Email](mailto:adibsaidhosn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adibhosn/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibsaidhosn@gmail.com)
 
-## I have communication skills in
-- ⚽ **Potuguese** (Native)
-
-- 🗽**English** (Professional)
-
-- 💃🏽 **Spanish** (Intermediate)
-
-- 🗼 **French** (Basic)
 ---
-
 ## Technologies
 
 
@@ -49,6 +54,11 @@ I am continually refining my expertise to stay at the forefront of advancements 
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | **Web Frameworks**             | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)                 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)                   |
 | **Tools**                | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)                  |
+
+### 🤝 Collaboration Tools:
+| **Category**                   | **Technologies**                                                                                                         |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Project & Communication Tools** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036)               ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)           |
 
 
 ---
