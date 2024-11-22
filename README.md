@@ -25,7 +25,8 @@
 ## ☎️ Connect with Me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adibhosn/)  [![adibsaidhosn@gmail.com](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibsaidhosn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adibhosn/)  [![adibsaidhosn@gmail.com](https://img.shields.io/badge/adibsaidhosn@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibsaidhosn@gmail.com)
+
 
 ---
 ## Technologies
