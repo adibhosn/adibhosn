@@ -8,7 +8,7 @@
   <tr><td><a href="README_fr.md"><img src="imagens/fr-flag.png" height="13"> French (Basic)</a></td></tr>
 </table>
 
-<img src="https://github.com/adibhosn/Adib-s_ReadMe/blob/main/adib_image.jpg?raw=true" alt="Cover" width="750">
+<img src="https://github.com/adibhosn/Adib-s_ReadMe/blob/main/adib_image.jpg?raw=true" alt="Cover" width="600">
 
 ---
 
