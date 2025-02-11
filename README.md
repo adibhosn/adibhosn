@@ -85,4 +85,4 @@
 
 ---
 
-## 👀 If you want to see other skills and courses I have completed, [here](https://github.com/adibhosn/adibhosn/blob/9318f163614407c39f9ea9e570b92de6e27fafeb/AdibSaidHosnResume.pdf) is my resume.
+## 👀 If you want to see other skills and courses I have completed, [here](https://github.com/adibhosn/adibhosn/blob/main/AdibSaidResume.pdf) is my resume.
