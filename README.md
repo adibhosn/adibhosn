@@ -37,7 +37,7 @@
 | **Databases**                  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Statistics and Mathematics** | ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)                         ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)                     ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)                    |
 | **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)                  ![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logoColor=white)                     ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)                           ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)                ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)       |          
-| **Machine Learning**           | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logoColor=white)                     |
+| **Machine Learning**           | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)           ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)                   |
 | **Development Tools**          |                                                ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)             |
 
 ### ☁️ Cloud & Infrastructure
@@ -64,12 +64,12 @@
 
 | **Category**                     | **Technologies**                                                                                                           |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Machine Learning & AI**        | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)           ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)                   ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)|
+| **Machine Learning & AI**| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)|
 | **Big Data & Distributed Computing** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) |
 | **Operations**             | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) |
 ---
 ### 🔍 Descriptions
-- **Machine Learning & AI**: Tools like **TensorFlow**, **Keras**, **XGBoost** and **Pytorch** for building advanced models, valuable for quantitative analysis.
+- **Machine Learning & AI**: Tools like  **Pytorch** for building advanced deep learning models, valuable for quantitative analysis.
 - **Big Data & Distributed Computing**: **Apache Spark**  for handling large-scale financial data, crucial in high-frequency trading.
 - **Operations**: **Apache Airflow** support data pipelines and workflows, essential for streaming and ETL in financial data.
 - **Financial Analysis & Risk Management**: Libraries like **Riskfolio-Lib** and **Alphalens** for portfolio optimization and factor analysis in finance.
