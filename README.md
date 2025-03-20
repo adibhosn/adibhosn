@@ -68,14 +68,5 @@
 | **Big Data & Distributed Computing** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) |
 | **Operations**             | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) |
 ---
-### 🔍 Descriptions
-- **Machine Learning & AI**: Tools like  **Pytorch** for building advanced deep learning models, valuable for quantitative analysis.
-- **Big Data & Distributed Computing**: **Apache Spark**  for handling large-scale financial data, crucial in high-frequency trading.
-- **Operations**: **Apache Airflow** support data pipelines and workflows, essential for streaming and ETL in financial data.
-- **Financial Analysis & Risk Management**: Libraries like **Riskfolio-Lib** and **Alphalens** for portfolio optimization and factor analysis in finance.
-- **Time Series Analysis**: **Statsmodels** and **Prophet** for financial time series analysis, such as forecasting prices or economic indicators.
-- **Blockchain & Decentralized Finance**: **Ethereum** and **Hyperledger** provide a foundation for exploring decentralized finance (DeFi) applications.
-
----
 
 ## 👀 If you want to see other skills and courses I have completed, [here](https://github.com/adibhosn/adibhosn/blob/main/AdibSaidResume.pdf) is my resume.
