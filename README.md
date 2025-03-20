@@ -30,13 +30,6 @@
 ### 🐍 Python Stack
 
 <details>
-  <summary><b>Programming Languages</b></summary>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details>
   <summary><b>Statistics and Mathematics</b></summary>
 
   ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)  
