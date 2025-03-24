@@ -40,7 +40,8 @@
 <details>
   <summary><b>Data Analysis & Visualization</b></summary>
 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![GeoPandas](https://img.shields.io/badge/GeoPandas-008060?style=for-the-badge&logo=geopandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logoColor=white)  
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
