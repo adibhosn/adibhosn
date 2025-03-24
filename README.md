@@ -1,4 +1,4 @@
-# Hello, my name is Adib, and this is my profile – feel free to explore! 👋
+# Hello, my name is Adib, and this is my profile – feel free to explore!
 
 <table>
   <tr><td><strong> I can comunicate in: <strong></td></tr>
@@ -12,22 +12,22 @@
 ---
 
 
-### 🙋🏻‍♂️  About Me
+### ➜ About Me
 
 **I'm currently on a learning journey to master MLOps and Generative AI. My focus is on building a strong foundation in Machine Learning, Deep Learning, Data Engineering, and Cloud Computing, applying these skills to develop scalable and innovative solutions.**
 
-**Always looking for challenges and hands-on projects to grow along the way! 🚀💡**
+**Always looking for challenges and hands-on projects to grow along the way!**
 
 ---
-## ☎️ Connect with Me
+## ➜ Connect with Me
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adibhosn/)  [![adibsaidhosn@gmail.com](https://img.shields.io/badge/adibsaidhosn@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibsaidhosn@gmail.com)
 
 
-## Technologies you will find in my repositories.
+## ➜ Technologies you will find in my repositories.
 
-### 🐍 Python Data Science Stack
+### Python Data Science Stack
 
 <details>
   <summary><b>Statistics and Mathematics</b></summary>
@@ -60,7 +60,7 @@
 
 ---
 
-### 🌐 Web Development and Containernization
+### ➜ Web Development and Containernization
 <details>
   <summary><b>Containerization and WEB</b></summary>
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🧑‍🎓 Technologies & Tools in Progress or Interested
+## ➜ In Progress or Interested
 
 <details>
   <summary><b>Machine Learning & AI</b></summary>
