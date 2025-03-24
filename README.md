@@ -25,9 +25,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adibhosn/)  [![adibsaidhosn@gmail.com](https://img.shields.io/badge/adibsaidhosn@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adibsaidhosn@gmail.com)
 
 
-## Technologies
+## Technologies you will find in my repositories.
 
-### 🐍 Python Stack
+### 🐍 Python Data Science Stack
 
 <details>
   <summary><b>Statistics and Mathematics</b></summary>
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning</b></summary>
+  <summary><b>Machine & Deep Learning</b></summary>
 
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
@@ -58,62 +58,16 @@
 
 </details>
 
-### 🛢️ DataBases
+---
 
+### 🌐 Web Development and Containernization
 <details>
-  <summary><b>Databases</b></summary>
-
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-### ☁️ Cloud & Infrastructure
-
-<details>
-  <summary><b>Cloud Platforms</b></summary>
-
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>Containerization</b></summary>
+  <summary><b>Containerization and WEB</b></summary>
 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-### 🌐 Web Development
-
-<details>
-  <summary><b>Web Frameworks</b></summary>
-
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-</details>
-
-<details>
-  <summary><b>Tools</b></summary>
-
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-  ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)  
-
-</details>
-
-### 🤝 Collaboration Tools
-
-<details>
-  <summary><b>Project & Communication Tools</b></summary>
-
-  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)  
-  ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036)  
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </details>
 
 ---
