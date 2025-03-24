@@ -14,7 +14,9 @@
 
 ### ➜ About Me
 
-**I'm currently on a learning journey to master MLOps and Generative AI. My focus is on building a strong foundation in Machine Learning, Deep Learning, Data Engineering, and Cloud Computing, applying these skills to develop scalable and innovative solutions.**
+## About Me  
+
+**I'm currently working in Data Science, but as I advance in my studies, I aim to become a Machine Learning Engineer.**  
 
 **Always looking for challenges and hands-on projects to grow along the way!**
 
