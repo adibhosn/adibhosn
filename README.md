@@ -11,10 +11,7 @@
 
 ---
 
-
-### ➜ About Me
-
-## About Me  
+## ➜ About Me  
 
 **I'm currently working in Data Science, but as I advance in my studies, I aim to become a Machine Learning Engineer.**  
 
@@ -74,7 +71,7 @@
 
 ---
 
-## ➜ In Progress or Interested
+## ➜ In Progress
 
 <details>
   <summary><b>Machine Learning & AI</b></summary>
