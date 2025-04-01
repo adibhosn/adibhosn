@@ -38,10 +38,17 @@
 </details>
 
 <details>
-  <summary><b>Data Analysis & Visualization</b></summary>
+  <summary><b>Data Analysis & Treatment</b></summary>
 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
   ![GeoPandas](https://img.shields.io/badge/GeoPandas-008060?style=for-the-badge&logo=geopandas&logoColor=white)
+
+</details>
+
+<details>
+  <summary><b>Graphs & Visualization</b></summary>
+
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logoColor=white)  
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
@@ -78,19 +85,5 @@
   <summary><b>Machine Learning & AI</b></summary>
 
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-
-</details>
-
-<details>
-  <summary><b>Big Data & Distributed Computing</b></summary>
-
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
-
-</details>
-
-<details>
-  <summary><b>Operations</b></summary>
-
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
 
 </details>
