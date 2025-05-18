@@ -49,8 +49,8 @@
 <details>
   <summary><b>Graphs & Visualization</b></summary>
 
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logoColor=white)  
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logo=matplotlib&logoColor=white)  
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)  
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
@@ -59,7 +59,7 @@
 <details>
   <summary><b>Machine & Deep Learning</b></summary>
 
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logoColor=white)  
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 
@@ -67,7 +67,7 @@
 
 ---
 
-### ➜ Web Development and Containernization
+### Web Development and Containernization
 <details>
   <summary><b>Containerization and WEB</b></summary>
 
@@ -79,7 +79,7 @@
 
 ---
 
-## ➜ In Progress
+## Studying
 
 <details>
   <summary><b>Machine Learning & AI</b></summary>
@@ -90,9 +90,4 @@
   ![CrewAI](https://img.shields.io/badge/crew.ai-0A0A23?style=for-the-badge&logo=crewAI&logoColor=white)
   ![PydanticAI](https://img.shields.io/badge/Pydantic-158CBA?style=for-the-badge&logo=pydantic&logoColor=white)
   ![MCP](https://img.shields.io/badge/MCP-123456?style=for-the-badge&logo=MCP&logoColor=white)
-
-  
-
-
-
 </details>
