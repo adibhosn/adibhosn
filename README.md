@@ -84,6 +84,15 @@
 <details>
   <summary><b>Machine Learning & AI</b></summary>
 
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+  ![CrewAI](https://img.shields.io/badge/crew.ai-0A0A23?style=for-the-badge&logo=crewAI&logoColor=white)
+  ![PydanticAI](https://img.shields.io/badge/Pydantic-158CBA?style=for-the-badge&logo=pydantic&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-123456?style=for-the-badge&logo=MCP&logoColor=white)
+
+  
+
+
 
 </details>
