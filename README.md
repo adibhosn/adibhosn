@@ -1,14 +1,5 @@
 # Hello, my name is Adib, and this is my profile – feel free to explore!
 
-<table>
-  <tr><td><strong> I can comunicate in: <strong></td></tr>
-  <tr><td><a href="README_pt.md"><img src="imagens/br-flag.png" height="13"> Portuguese (Native)</a></td></tr>
-  <tr><td><a href="README.md"><img src="imagens/us-flag.png" height="13"> English (Professional)</a></td></tr>
-  <tr><td><a href="README_es.md"><img src="imagens/sp-flag.png" height="13"> Spanish (Intermediate)</a></td></tr>
-  <tr><td><a href="README_fr.md"><img src="imagens/fr-flag.png" height="13"> French (Basic)</a></td></tr>
-</table>
-
-
 ---
 
 ## ➜ About Me  
@@ -99,3 +90,4 @@
   ![PydanticAI](https://img.shields.io/badge/Pydantic-158CBA?style=for-the-badge&logo=pydantic&logoColor=white)
   ![MCP](https://img.shields.io/badge/MCP-123456?style=for-the-badge&logo=MCP&logoColor=white)
 </details>
+
