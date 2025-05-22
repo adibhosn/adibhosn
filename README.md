@@ -87,7 +87,7 @@
 
 ---
 
-## Studying
+## ➜ Studying
 
 <details>
   <summary><b>Machine Learning & AI</b></summary>
