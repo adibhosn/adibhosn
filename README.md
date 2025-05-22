@@ -53,7 +53,6 @@
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)  
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
 </details>
 
 <details>
@@ -69,12 +68,21 @@
 
 ### Web Development and Containernization
 <details>
-  <summary><b>Containerization and WEB</b></summary>
+  <summary><b>Containerization</b></summary>
 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+<details>
+  <summary><b>REST APIs</b></summary>
+
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</details>
+
+<details>
+  <summary><b>Web Scraping</b></summary>
+
+ ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4B0082?style=for-the-badge&logo=BeautifulSoup&logoColor=white)
 </details>
 
 ---
