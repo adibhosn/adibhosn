@@ -4,7 +4,7 @@
 
 ## ➜ About Me  
 
-**I'm currently working in Data Science, but as I advance in my studies, I aim to become a Machine Learning Engineer.**  
+**Gen AI Engineer**  
 
 **Always looking for challenges and hands-on projects to grow along the way!**
 
