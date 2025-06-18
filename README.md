@@ -87,7 +87,7 @@
 ## ➜ Studying
 
 <details>
-  <summary><b>Machine Learning & AI</b></summary>
+  <summary><b>Machine Learning & LLMs</b></summary>
 
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
